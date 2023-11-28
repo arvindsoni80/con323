@@ -8,3 +8,5 @@ Useful links related to observability for ECS Fargate
 [Converting EventBridge events to CloudWatch metrics and alarms](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cloudwatch_event_stream.html)
 
 [Documentation about EventBridge events published by ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/cloudwatch_event_stream.html)
+
+[Using application custom metrics for ECS service autoscaling](https://aws.amazon.com/blogs/containers/autoscaling-amazon-ecs-services-based-on-custom-metrics-with-application-auto-scaling/)
